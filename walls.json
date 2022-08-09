@@ -1,14 +1,22 @@
 [
   {
-    "name": "First Wallpaper",
-    "url": "https://www.example.com/first-wallpaper.png"
+    "name": "Blue",
+    "author": "TheVeloper",
+    "url": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/1.png"
   },
   {
-    "name": "Second Wallpaper",
-    "url": "https://www.example.com/second-wallpaper.png"
+    "name": "Red",
+    "author": "TheVeloper",
+    "url": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/2.png"
   },
   {
-    "name": "Third Wallpaper",
-    "url": "https://www.example.com/third-wallpaper.png"
+    "name": "Orange",
+    "author": "TheVeloper",
+    "url": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/3.png"
+  },
+  {
+    "name": "Green",
+    "author": "TheVeloper",
+    "url": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/4.png"
   }
 ]
