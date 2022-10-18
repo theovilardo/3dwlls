@@ -1,12 +1,26 @@
 [
   {
-    "name": "Blue",
-    "author": "TheVeloper",
-    "url": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/1.png"
+    "name": "Praline",
+    "author": "Nosotros",
+    "url": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/d_keylimepie.jpg"
+    "collections": "Citas"
   },
   {
-    "name": "Green",
+    "name": "Praline 2",
+    "author": "Nosotros",
+    "url": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/d_keylimepie_2.jpg"
+    "collections": "Citas"
+  },
+  {
+    "name": "Planetario",
     "author": "TheVeloper",
-    "url": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/4.png"
+    "url": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/d_planetario.jpg"
+    "collections": "Recoleta"
+  },
+  {
+    "name": "Planetario 2",
+    "author": "TheVeloper",
+    "url": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/d_planetario_2.jpg"
+    "collections": "Recoleta"
   }
 ]
